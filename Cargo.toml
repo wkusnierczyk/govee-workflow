@@ -1,6 +1,6 @@
 [package]
 name = "govee-workflow"
-version = "0.0.0"
+version = "0.0.1"
 edition = "2021"
 description = "Govee smart device workflow automation"
 license = "MIT"
